@@ -18,7 +18,9 @@
 
 - ⚡ Fun fact **Blah Blah Blah..**
 
-<h3 align="left">Connect with me:</h3>
+- <img align="right" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="working girl">
+
+<h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://linkedin.com/in/ambarnaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambarnaz" height="30" width="40" /></a>
 </p>
@@ -31,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambarnazgithub&show_icons=true&locale=en&layout=compact" alt="ambarnazgithub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambarnazgithub&show_icons=true&locale=en" alt="ambarnazgithub" /></p>
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=ambarnazgithub&show_icons=true&locale=en" alt="ambarnazgithub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambarnazgithub&" alt="ambarnazgithub" /></p>
+<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambarnazgithub&" alt="ambarnazgithub" /></p>
